@@ -8,11 +8,9 @@
 <a href="https://www.instagram.com/consecration_abhi/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=kaurman23.kaurman23)
+<br>
 
-<br />
-
-Hi, I'm [ABHISHEK KUMAR](https://abhikr200.netlify.app/), a Full Stack Developer. Currently, I am working as a Programmer Analyst Trainee at COGNIZANT TECHNOLOGY SOLUTIONS. I enjoy the process of learning and building stuff.
+Hi, I'm [ABHISHEK KUMAR](https://abhikr200.netlify.app/), a Full Stack Developer. Currently, I am working as a Programmer Analyst Trainee at COGNIZANT TECHNOLOGY SOLUTIONS. I enjoy the process of learning and building stuff. </br>
   
 **Some things about me:**
 
