@@ -10,7 +10,7 @@
 </a>
 <br>
 
-Hi, I'm [ABHISHEK KUMAR](https://abhikr200.netlify.app/), a Full Stack Developer. Currently, I am working as a Programmer Analyst Trainee at COGNIZANT TECHNOLOGY SOLUTIONS. I enjoy the process of learning and building stuff. </br>
+Hi, I'm [ABHISHEK KUMAR](https://abhikr200.netlify.app/), a Full Stack Developer. Currently, I am working as a Jr. Software Engineer at COGNIZANT TECHNOLOGY SOLUTIONS. I enjoy the process of learning and building stuff. </br>
   
 **Some things about me:**
 
